@@ -200,10 +200,14 @@
 &lt;p>Most &lt;mark>salamanders&lt;/mark> are nocturnal, and hunt for insects, worms, and other small creatures.&lt;/p>
 &lt;h2 id="hyperlinked-image">Hyperlinked image
 &lt;/h2>&lt;p>&lt;a class="link" href="https://google.com" target="_blank" rel="noopener"
->&lt;img src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_light_color_272x92dp.png"
+>
+&lt;figure class="image-container">
+&lt;img src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_light_color_272x92dp.png"
 loading="lazy"
 alt="Google"
->&lt;/a>&lt;/p>
+>
+&lt;figcaption>Google&lt;/figcaption>
+&lt;/figure>&lt;/a>&lt;/p>
 &lt;div class="footnotes" role="doc-endnotes">
 &lt;hr>
 &lt;ol>

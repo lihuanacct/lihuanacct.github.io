@@ -10,7 +10,9 @@
 &lt;p>&lt;em>&lt;a class="link" href="https://www.youtube.com/watch?v=3aypp_YlBzI" target="_blank" rel="noopener"
 >最暖的憂傷 - 田馥甄&lt;/a>&lt;/em>&lt;/p>&lt;/blockquote>
 &lt;h2 id="图片">图片
-&lt;/h2>&lt;p>&lt;img src="https://www.openfun.online/p/test-chinese/florian-klauer-nptLmg6jqDo-unsplash.jpg"
+&lt;/h2>&lt;p>
+&lt;figure class="image-container">
+&lt;img src="https://www.openfun.online/p/test-chinese/florian-klauer-nptLmg6jqDo-unsplash.jpg"
 width="667"
 height="1000"
 srcset="https://www.openfun.online/p/test-chinese/florian-klauer-nptLmg6jqDo-unsplash_hu_e98fca2b4272416e.jpg 480w, https://www.openfun.online/p/test-chinese/florian-klauer-nptLmg6jqDo-unsplash_hu_e3d37c9ded115b12.jpg 1024w"
@@ -19,7 +21,11 @@ alt="Photo by Florian Klauer on Unsplash"
 class="gallery-image"
 data-flex-grow="66"
 data-flex-basis="160px"
-> &lt;img src="https://www.openfun.online/p/test-chinese/luca-bravo-alS7ewQ41M8-unsplash.jpg"
+>
+&lt;figcaption>Photo by Florian Klauer on Unsplash&lt;/figcaption>
+&lt;/figure>
+&lt;figure class="image-container">
+&lt;img src="https://www.openfun.online/p/test-chinese/luca-bravo-alS7ewQ41M8-unsplash.jpg"
 width="1000"
 height="667"
 srcset="https://www.openfun.online/p/test-chinese/luca-bravo-alS7ewQ41M8-unsplash_hu_e13c58d5189f892c.jpg 480w, https://www.openfun.online/p/test-chinese/luca-bravo-alS7ewQ41M8-unsplash_hu_8fc948b7ee525251.jpg 1024w"
@@ -28,8 +34,12 @@ alt="Photo by Luca Bravo on Unsplash"
 class="gallery-image"
 data-flex-grow="149"
 data-flex-basis="359px"
->&lt;/p>
-&lt;p>&lt;img src="https://www.openfun.online/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash.jpg"
+>
+&lt;figcaption>Photo by Luca Bravo on Unsplash&lt;/figcaption>
+&lt;/figure>&lt;/p>
+&lt;p>
+&lt;figure class="image-container">
+&lt;img src="https://www.openfun.online/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash.jpg"
 width="1000"
 height="750"
 srcset="https://www.openfun.online/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash_hu_503c0ebcc5245e10.jpg 480w, https://www.openfun.online/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash_hu_48c98de55fb3c999.jpg 1024w"
@@ -38,7 +48,11 @@ alt="Photo by Helena Hertz on Unsplash"
 class="gallery-image"
 data-flex-grow="133"
 data-flex-basis="320px"
-> &lt;img src="https://www.openfun.online/p/test-chinese/hudai-gayiran-3Od_VKcDEAA-unsplash.jpg"
+>
+&lt;figcaption>Photo by Helena Hertz on Unsplash&lt;/figcaption>
+&lt;/figure>
+&lt;figure class="image-container">
+&lt;img src="https://www.openfun.online/p/test-chinese/hudai-gayiran-3Od_VKcDEAA-unsplash.jpg"
 width="667"
 height="1000"
 srcset="https://www.openfun.online/p/test-chinese/hudai-gayiran-3Od_VKcDEAA-unsplash_hu_f81a3588c5c4a663.jpg 480w, https://www.openfun.online/p/test-chinese/hudai-gayiran-3Od_VKcDEAA-unsplash_hu_1c52ba2a4ad7b9a0.jpg 1024w"
@@ -47,7 +61,9 @@ alt="Photo by Hudai Gayiran on Unsplash"
 class="gallery-image"
 data-flex-grow="66"
 data-flex-basis="160px"
->&lt;/p>
+>
+&lt;figcaption>Photo by Hudai Gayiran on Unsplash&lt;/figcaption>
+&lt;/figure>&lt;/p>
 &lt;div class="highlight">&lt;div class="chroma">
 &lt;table class="lntable">&lt;tr>&lt;td class="lntd">
 &lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
@@ -263,10 +279,14 @@ data-flex-basis="160px"
 &lt;p>Most &lt;mark>salamanders&lt;/mark> are nocturnal, and hunt for insects, worms, and other small creatures.&lt;/p>
 &lt;h2 id="hyperlinked-image">Hyperlinked image
 &lt;/h2>&lt;p>&lt;a class="link" href="https://google.com" target="_blank" rel="noopener"
->&lt;img src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_light_color_272x92dp.png"
+>
+&lt;figure class="image-container">
+&lt;img src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_light_color_272x92dp.png"
 loading="lazy"
 alt="Google"
->&lt;/a>&lt;/p>
+>
+&lt;figcaption>Google&lt;/figcaption>
+&lt;/figure>&lt;/a>&lt;/p>
 &lt;div class="footnotes" role="doc-endnotes">
 &lt;hr>
 &lt;ol>
